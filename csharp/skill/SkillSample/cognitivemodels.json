@@ -1,0 +1,19 @@
+{
+  "cognitiveModels": {
+    "en-us": {
+      "languageModels": [
+        {
+          "id": "",
+          "appid": "",
+          "name": "",
+          "endpoint": "",
+          "version": "",
+          "region": "",
+          "authoringkey": "",
+          "subscriptionkey": ""
+        }
+      ]
+    }
+  },
+  "defaultLocale": "en-us"
+}
