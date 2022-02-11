@@ -2,6 +2,7 @@ HERE, NEO-College Virtual Assistant is created by using different Azure Cloud Se
 
 For an architectural perspective, the following Azure services are being used:
 Azure services:
+
         1  Web App
         2  Cosmos Database
         3  Storage account
